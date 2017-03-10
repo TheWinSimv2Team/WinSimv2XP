@@ -1,2 +1,3 @@
 Key of WinSimv2 XP (Retail OEM Signed):
 QWXZNXBH
+#Warning: Leaking this key will result in an ban
