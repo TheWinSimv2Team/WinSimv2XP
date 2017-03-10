@@ -6,4 +6,4 @@ Same as the normal WinSimv2! Since 0.0.4 it will have an installer because of dl
 Go into the ReadyToRunExes folder to test WinSimv2 XP
 If you want to try 0.0.3 and you are not an developer we recommend to try the Public editions folder found in the Ready to run exes folder
 #Note
-Leaking this code or the key will result in an ban / kick from the WinSimv2 Team , Read apply license
+Leaking the code or the key will result in an ban / kick from the WinSimv2 Team , Read apply license
