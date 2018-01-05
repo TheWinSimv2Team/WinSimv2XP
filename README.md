@@ -1,3 +1,5 @@
+**WARNING** WinSimv2 XP and WinSimv2 are outdated. Please see [this page](https://thewinsimv2team.github.io) if you want to see more about that.
+
 * **WinSimv2 XP**
 WinSimv2 XP is the new codenamed version of WinSimv2 which is still in development.
 * **Requirements**
